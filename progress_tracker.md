@@ -5,8 +5,8 @@
 ---
 
 ## **WEEK 1: Python + AI Math + ML Fundamentals**
-- [ ] **Day 1** - Python Basics ✅ (Today!)
-- [ ] **Day 2** - Python for Data & APIs
+- [x] **Day 1** - Python Basics ✅ (Completed!)
+- [x] **Day 2** - Python for Data & APIs ✅ (Today!)
 - [ ] **Day 3** - Math for AI (Light)
 - [ ] **Day 4** - AI/ML Fundamentals
 - [ ] **Day 5** - Data Preprocessing
@@ -99,28 +99,28 @@
 
 ## 📈 **Progress Statistics**
 - **Total Days:** 60
-- **Completed:** 1/60 (1.7%)
+- **Completed:** 2/60 (3.3%)
 - **Current Week:** Week 1
-- **Current Day:** Day 1
+- **Current Day:** Day 2
 - **Projects Completed:** 0/6
 
 ---
 
-## 🎯 **Today's Goals (Day 1)**
-- [x] Complete Python Basics tutorial
-- [x] Run the practice project
-- [x] Understand variables, loops, functions, OOP
-- [x] Get comfortable with NumPy basics
-- [ ] Complete extra practice exercises (optional)
+## 🎯 **Today's Goals (Day 2)**
+- [ ] Complete Python for Data & APIs tutorial
+- [ ] Run the practice project
+- [ ] Understand Pandas data manipulation
+- [ ] Create data visualizations with Matplotlib/Seaborn
+- [ ] Work with real APIs and fetch Bitcoin data
 
 ---
 
-## 🚀 **Next Session Preview (Day 2)**
+## 🚀 **Next Session Preview (Day 3)**
 **Tomorrow we'll learn:**
-- Pandas for data manipulation
-- Matplotlib and Seaborn for visualization
-- Working with APIs using requests library
-- **Practice Project:** Fetch Bitcoin price data and create charts!
+- Linear algebra basics (vectors, matrices)
+- Probability fundamentals
+- Gradient descent optimization
+- **Practice Project:** Implement gradient descent to fit a line!
 
 ---
 
